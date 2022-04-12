@@ -35,7 +35,7 @@ pipeline {
                         compressLog: true, 
                         to: "test@test.fr",
                         recipientProviders: [upstreamDevelopers(), requestor()]
-                }*/***
+                }*/
             }
         }
     }
