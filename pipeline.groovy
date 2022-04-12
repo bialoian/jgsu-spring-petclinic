@@ -20,6 +20,7 @@ pipeline {
                 //    bat './mvnw clean package'
                 //}
             }
+            
 
             post {
                 // If Maven was able to run the tests, even if some of the test
